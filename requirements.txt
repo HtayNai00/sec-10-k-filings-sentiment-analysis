@@ -1,0 +1,13 @@
+requests
+tqdm
+pandas
+python-dateutil
+beautifulsoup4
+duckdb
+yfinance
+torch
+transformers
+streamlit
+mlflow
+matplotlib
+plotly
