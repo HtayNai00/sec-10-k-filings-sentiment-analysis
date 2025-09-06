@@ -99,8 +99,7 @@ Companies Covered
 48 large-cap companies with consistent 10-K filings (2020–2024), across Technology, Healthcare, Consumer, Energy, and Industrials. Examples:
 AAPL, MSFT, AMZN, NVDA, TSLA, ORCL, INTC, CSCO, JNJ, MRK, ABBV, UNH, CVS, COST, HD, NKE, MCD, SBUX, XOM, CVX, BA, LMT, UPS, FDX, ...
 
-Author
+👤 Author
 
-HtayNaing Oo
-Graduate Student (Youngstown State University)
-Department of ComputerScience and Information Systems
+Htay Naing Oo
+Graduate Student | Data Engineering & Machine Learning
