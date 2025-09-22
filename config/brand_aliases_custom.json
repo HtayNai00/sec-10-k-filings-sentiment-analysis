@@ -1,0 +1,289 @@
+{
+  "NVDA": [
+    "NVIDIA",
+    "NVIDIA Corporation",
+    "GeForce",
+    "RTX",
+    "CUDA",
+    "DGX",
+    "HGX",
+    "TensorRT"
+  ],
+  "TSLA": [
+    "Tesla",
+    "Tesla, Inc.",
+    "Model S",
+    "Model 3",
+    "Model X",
+    "Model Y",
+    "Cybertruck",
+    "Autopilot",
+    "Full Self-Driving"
+  ],
+  "ORCL": [
+    "Oracle",
+    "Oracle Corporation",
+    "Oracle Cloud",
+    "OCI",
+    "MySQL",
+    "Java",
+    "Fusion Applications"
+  ],
+  "INTC": [
+    "Intel",
+    "Intel Corporation",
+    "Xeon",
+    "Core",
+    "Arc",
+    "Atom",
+    "Altera"
+  ],
+  "CSCO": [
+    "Cisco",
+    "Cisco Systems",
+    "Catalyst",
+    "Meraki",
+    "Webex",
+    "AppDynamics"
+  ],
+  "AXP": [
+    "American Express",
+    "Amex",
+    "Membership Rewards"
+  ],
+  "USB": [
+    "U.S. Bancorp",
+    "US Bank",
+    "U.S. Bank"
+  ],
+  "JNJ": [
+    "Johnson & Johnson",
+    "J&J",
+    "Janssen"
+  ],
+  "MRK": [
+    "Merck",
+    "Merck & Co.",
+    "Keytruda",
+    "Gardasil"
+  ],
+  "ABBV": [
+    "AbbVie",
+    "Humira",
+    "Skyrizi",
+    "Rinvoq",
+    "Imbruvica"
+  ],
+  "UNH": [
+    "UnitedHealth Group",
+    "UnitedHealthcare",
+    "Optum"
+  ],
+  "CVS": [
+    "CVS Health",
+    "CVS Pharmacy",
+    "Aetna",
+    "Caremark",
+    "MinuteClinic"
+  ],
+  "MDT": [
+    "Medtronic"
+  ],
+  "TMO": [
+    "Thermo Fisher",
+    "Thermo Fisher Scientific",
+    "Applied Biosystems",
+    "Invitrogen",
+    "Ion Torrent"
+  ],
+  "AMGN": [
+    "Amgen",
+    "Enbrel",
+    "Repatha",
+    "Otezla"
+  ],
+  "GILD": [
+    "Gilead",
+    "Gilead Sciences",
+    "Biktarvy",
+    "Veklury"
+  ],
+  "COST": [
+    "Costco",
+    "Costco Wholesale"
+  ],
+  "HD": [
+    "Home Depot"
+  ],
+  "LOW": [
+    "Lowe's",
+    "Lowes"
+  ],
+  "KO": [
+    "Coca-Cola",
+    "Coca Cola",
+    "Coke",
+    "Coke Zero",
+    "Diet Coke",
+    "Sprite",
+    "Fanta"
+  ],
+  "PEP": [
+    "Pepsi",
+    "PepsiCo",
+    "Mountain Dew",
+    "Gatorade",
+    "Lay's",
+    "Doritos",
+    "Quaker"
+  ],
+  "NKE": [
+    "Nike",
+    "Jordan",
+    "Converse",
+    "Nike Air"
+  ],
+  "MCD": [
+    "McDonald's",
+    "McDonalds",
+    "McCafe"
+  ],
+  "SBUX": [
+    "Starbucks",
+    "Starbucks Coffee"
+  ],
+  "XOM": [
+    "ExxonMobil",
+    "Exxon",
+    "Mobil"
+  ],
+  "CVX": [
+    "Chevron"
+  ],
+  "COP": [
+    "ConocoPhillips"
+  ],
+  "GE": [
+    "GE",
+    "General Electric",
+    "GE Vernova",
+    "GE Aerospace",
+    "GE HealthCare"
+  ],
+  "CAT": [
+    "Caterpillar",
+    "CAT"
+  ],
+  "BA": [
+    "Boeing",
+    "737 MAX",
+    "787 Dreamliner",
+    "777X"
+  ],
+  "HON": [
+    "Honeywell",
+    "Honeywell International"
+  ],
+  "LMT": [
+    "Lockheed Martin",
+    "F-35",
+    "Skunk Works"
+  ],
+  "UPS": [
+    "UPS",
+    "United Parcel Service",
+    "UPS Freight"
+  ],
+  "FDX": [
+    "FedEx",
+    "Federal Express"
+  ],
+  "ADBE": [
+    "Adobe",
+    "Photoshop",
+    "Illustrator",
+    "Acrobat",
+    "Premiere Pro",
+    "After Effects",
+    "Lightroom"
+  ],
+  "AVGO": [
+    "Broadcom",
+    "VMware"
+  ],
+  "TXN": [
+    "Texas Instruments",
+    "TI"
+  ],
+  "QCOM": [
+    "Qualcomm",
+    "Snapdragon",
+    "Qualcomm Technologies"
+  ],
+  "IBM": [
+    "IBM",
+    "International Business Machines",
+    "Red Hat",
+    "Watson"
+  ],
+  "LIN": [
+    "Linde"
+  ],
+  "DHR": [
+    "Danaher",
+    "Cytiva",
+    "Beckman Coulter",
+    "Leica Microsystems"
+  ],
+  "PM": [
+    "Philip Morris",
+    "Philip Morris International",
+    "IQOS",
+    "Heets"
+  ],
+  "MO": [
+    "Altria",
+    "Marlboro",
+    "On!"
+  ],
+  "DE": [
+    "Deere",
+    "John Deere"
+  ],
+  "MMM": [
+    "3M",
+    "Post-it",
+    "Scotch"
+  ],
+  "AAPL": [
+    "Apple",
+    "Apple Inc.",
+    "iPhone",
+    "iPad",
+    "Mac",
+    "MacBook",
+    "Apple Watch",
+    "AirPods",
+    "iOS",
+    "macOS"
+  ],
+  "MSFT": [
+    "Microsoft",
+    "Microsoft Corporation",
+    "Windows",
+    "Office",
+    "Office 365",
+    "Azure",
+    "Xbox",
+    "Surface",
+    "GitHub"
+  ],
+  "AMZN": [
+    "Amazon",
+    "Amazon.com",
+    "Prime",
+    "AWS",
+    "Alexa",
+    "Kindle"
+  ]
+}
